@@ -9,9 +9,9 @@ Analyzed road accident data using Tableau, identifying 10 high-risk intersection
 
 3.Total  Fatal Casualties
 
-3.Total  Serious Casualties
+4.Total  Serious Casualties
 
-4.Total  Slight Casualties
+5.Total  Slight Casualties
 
 ## Spark Lines:
 
