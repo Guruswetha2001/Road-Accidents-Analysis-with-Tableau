@@ -25,5 +25,7 @@ Analyzed road accident data using Tableau, identifying 10 high-risk intersection
 
 5.Total  slight Casualties sparkline 
 
+- <a href= "https://github.com/Guruswetha2001/Road-Accidents-Analysis-with-Tableau/blob/main/Road_Accident_Image.png">Road Accident_Image</a>
+
 
 
