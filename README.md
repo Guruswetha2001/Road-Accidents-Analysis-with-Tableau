@@ -1,7 +1,7 @@
 # Road-Accidents-Analysis-with-Tableau
 ## Project Objective
 Analyzed road accident data using Tableau, identifying 10 high-risk intersections.
-# KP'S
+# KPI'S
 
 1.Total Accidents
 
