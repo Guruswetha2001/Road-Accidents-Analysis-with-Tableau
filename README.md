@@ -15,15 +15,15 @@ Analyzed road accident data using Tableau, identifying 10 high-risk intersection
 
 ## Spark Lines:
 
-1.Accident sparkline :
+1.Accident sparkline 
 
-2.Total Casualties sparkline :
+2.Total Casualties sparkline 
 
-3. Total  Fatal Casualties sparkline :
+3.Total  Fatal Casualties sparkline 
 
-4.Total  serious Casualties sparkline :
+4.Total  serious Casualties sparkline 
 
-5.Total  slight Casualties sparkline :
+5.Total  slight Casualties sparkline 
 
 
 
